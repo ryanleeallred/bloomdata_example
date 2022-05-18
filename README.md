@@ -1,1 +1,9 @@
-# bloomdata_example
+# Ryan Allred's Bloomdata Python Package
+
+## This is where I tell you:
+
+- What the project does
+- Why the project is useful
+- How users can get started with the project
+- Where users can get help with your project
+- Who maintains and contributes to the project
